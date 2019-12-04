@@ -1,0 +1,3 @@
+[submodule "vimwiki-assets"]
+	path = vimwiki-assets
+	url = https://github.com/maonx/vimwiki-assets.git
